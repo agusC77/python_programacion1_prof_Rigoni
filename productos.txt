@@ -1,0 +1,5 @@
+nombre, precio, cantidad
+lapicera, 1000.99 ,15
+cuaderno, 5466, 10
+auto, 5000000,5
+a,8.0,5
